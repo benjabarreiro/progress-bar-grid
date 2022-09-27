@@ -1,0 +1,14 @@
+body {
+	display: grid;
+	grid-template-columns: repeat(10, 50px);
+	grid-template-rows: auto;
+}
+
+p {
+	background-color: lightslategrey;
+	color: transparent;
+}
+
+.progress {
+	background-color: orange;
+}
